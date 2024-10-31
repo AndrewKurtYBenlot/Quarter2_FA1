@@ -1,0 +1,22 @@
+/*body*/
+
+body{
+	text-align:center;
+	margin:0 15%;
+	width:75%;
+	border:2px solid blue;
+}
+
+h1{
+	background-color:#D3D3D3;
+	margin-top:20;
+	margin-bottom:0;
+	padding:0;
+}
+
+h2{
+	background-color:#D3D3D3;
+	font-style: italic;
+	margin:0;
+	padding: 0;
+}
